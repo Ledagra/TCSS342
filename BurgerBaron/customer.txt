@@ -1,0 +1,11 @@
+Burger
+Baron Burger
+Double Baron Burger
+Triple Baron Burger
+Double Baron Burger with no Sauce
+Triple Chicken Burger with Cheese Sauce but no Ketchup
+Double Burger with Cheddar Mayonnaise
+Veggie Burger
+Double Veggie Burger with Cheese but no Mozzarella
+Triple Veggie Burger with Onions Mustard
+Double Burger with Ketchup
